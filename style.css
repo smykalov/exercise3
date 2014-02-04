@@ -1,0 +1,19 @@
+* {
+  margin:0;
+  padding:0;
+}
+nav {
+	width:30%;
+	float:left;
+	background-color: #ff746c;
+}
+section {
+	width:40%;
+	float:left;
+	background-color: #f2f7db;
+}
+aside {
+	width:30%;
+	float:right;
+	background-color: #ecffee;
+}
